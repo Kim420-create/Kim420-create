@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 🌻
 
-<!--
-**Kim420-create/Kim420-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome on my profile !
 
-Here are some ideas to get you started:
+Only a few things yet on my Github but
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning React and also Three.js
+- 👯 I’m looking to collaborate with anybody who whant to share knwoledges !
+
+
+- 📫 How to reach me: kim@kimdev.net
+- ⚡ Other fact: I love Art so if you wanna share with me your tricks contact me 
+
+🌸 :sunny: 🌸
