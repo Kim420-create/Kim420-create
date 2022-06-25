@@ -1,3 +1,5 @@
+![kimdev](https://user-images.githubusercontent.com/78882078/175780244-6273b859-9e21-434d-adb8-3dc754d88c86.png)
+
 ### Hi there 🌻
 
 Welcome on my profile !
@@ -9,6 +11,6 @@ Only a few things yet on my Github but
 
 
 - 📫 How to reach me: kim@kimdev.net
-- ⚡ Other fact: I love Art so if you wanna share with me your tricks contact me 
+- ⚡ Other fact: I love Art (all type) so if you want to share with me your favorites
 
 🌸 :sunny: 🌸
